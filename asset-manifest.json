@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4165bd00.css",
-    "main.js": "/static/js/main.682040c5.js",
-    "static/media/background.jpg": "/static/media/background.jpg",
-    "index.html": "/index.html",
-    "main.4165bd00.css.map": "/static/css/main.4165bd00.css.map",
-    "main.682040c5.js.map": "/static/js/main.682040c5.js.map"
+    "main.css": "./static/css/main.4165bd00.css",
+    "main.js": "./static/js/main.cc544db9.js",
+    "static/media/yande.re 789141 hololive hololive_english ninomae_ina'nis ninomae_ina'nis_(artist) photoshop wallpaper.jpg": "./static/media/yande.re 789141 hololive hololive_english ninomae_ina'nis ninomae_ina'nis_(artist) photoshop wallpaper.3c5a8eb385d4bac8e823.jpg",
+    "index.html": "./index.html",
+    "main.4165bd00.css.map": "./static/css/main.4165bd00.css.map",
+    "main.cc544db9.js.map": "./static/js/main.cc544db9.js.map"
   },
   "entrypoints": [
     "static/css/main.4165bd00.css",
-    "static/js/main.682040c5.js"
+    "static/js/main.cc544db9.js"
   ]
 }
