@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.4165bd00.css",
-    "main.js": "./static/js/main.6fa3fdef.js",
+    "main.css": "./static/css/main.99656476.css",
+    "main.js": "./static/js/main.d8f86a79.js",
     "static/media/yande.re 789141 hololive hololive_english ninomae_ina'nis ninomae_ina'nis_(artist) photoshop wallpaper.jpg": "./static/media/yande.re 789141 hololive hololive_english ninomae_ina'nis ninomae_ina'nis_(artist) photoshop wallpaper.3c5a8eb385d4bac8e823.jpg",
     "index.html": "./index.html",
-    "main.4165bd00.css.map": "./static/css/main.4165bd00.css.map",
-    "main.6fa3fdef.js.map": "./static/js/main.6fa3fdef.js.map"
+    "main.99656476.css.map": "./static/css/main.99656476.css.map",
+    "main.d8f86a79.js.map": "./static/js/main.d8f86a79.js.map"
   },
   "entrypoints": [
-    "static/css/main.4165bd00.css",
-    "static/js/main.6fa3fdef.js"
+    "static/css/main.99656476.css",
+    "static/js/main.d8f86a79.js"
   ]
 }
